@@ -12,3 +12,7 @@ Keyword: Traditional federal learning; Personalized federated learning; Non-inde
 详见https://www.kaggle.com/code/chenzhaoxi/mnist-avgper/notebook?scriptVersionId=180541508
 
 https://www.kaggle.com/code/chenzhaoxi/cifar10-non
+
+https://www.kaggle.com/code/chenzhaoxi/cifar10-avg/notebook?scriptVersionId=180549501
+
+https://www.kaggle.com/code/chenzhaoxi/cifar100?scriptVersionId=180548039
